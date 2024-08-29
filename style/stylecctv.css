@@ -82,6 +82,11 @@ nav ul li {
     text-align: center;
     color: whitesmoke;
 }
+
+.main-container h2{
+    margin: 40px 0;
+}
+
 .main-container .jalur div{
     border: 1px solid salmon;
     width: 300px;
